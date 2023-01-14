@@ -4,4 +4,4 @@
 rebase-practice ブランチで更新(rebase　コンフリクト用)
 rebase pull用
 stash　コンフリクト用
-stash練習（トラック済み）
+stash練習（2nd変更）
